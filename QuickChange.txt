@@ -1,0 +1,9 @@
+age_19=stats_2019.loc[:,'player_age']
+
+HR_19=stats_2019.loc[:,'b_home_run']
+
+b_avg_19=stats_2019.loc[:,'batting_avg']
+
+OPS_19=stats_2019.loc[:,'on_base_plus_slg']
+
+e_vel_19=stats_2019.loc[:,'exit_velocity_avg']
